@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
