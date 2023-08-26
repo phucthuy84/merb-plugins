@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
