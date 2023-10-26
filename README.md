@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
