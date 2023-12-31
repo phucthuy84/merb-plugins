@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
