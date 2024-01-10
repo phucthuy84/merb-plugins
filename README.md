@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
