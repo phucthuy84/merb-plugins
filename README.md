@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
