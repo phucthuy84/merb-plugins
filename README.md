@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
