@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add integrations/gradio Docs page (#7935)
