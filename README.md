@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
