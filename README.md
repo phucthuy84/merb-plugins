@@ -1,1 +1,1 @@
-example Google Colab
+YAML reformat (#7669)
