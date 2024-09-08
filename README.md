@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
