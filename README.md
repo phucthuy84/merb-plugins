@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
