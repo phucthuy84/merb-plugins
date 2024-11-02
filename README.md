@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
